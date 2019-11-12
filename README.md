@@ -1,7 +1,7 @@
 # GitDemoFromGit
 Git Demo for OOSD class
 
-# Formatted Header
+# Formatted Header (Conflict-free)
 
 This is some documentation.
 
