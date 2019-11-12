@@ -2,7 +2,7 @@
 Git Demo for OOSD class
 
 # Formatted Header
-Blah blah blah.
+Removed conflict.
 
 This is some documentation.
 
