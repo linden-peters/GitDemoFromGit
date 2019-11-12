@@ -1,10 +1,10 @@
 /* TEAM */
 
                             
-Your title: Your name.
+Your title: Linden Peters
 
                             
-Site: email, link to a contact form, etc.
+Site: Working on BetaFeature branch
 
                             
 Twitter: your Twitter username.
