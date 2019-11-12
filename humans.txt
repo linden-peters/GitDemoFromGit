@@ -4,7 +4,7 @@
 Your title: Your name.
 
                             
-Site: email, link to a contact form, etc.
+Site: Company Inc.
 
                             
 Twitter: your Twitter username.
@@ -32,7 +32,7 @@ Name: name or url
 /* SITE */
 
                             
-Last update: YYYY/MM/DD 
+Last update: 2019/11/12 
 
                             
 Standards: HTML5, CSS3,..
